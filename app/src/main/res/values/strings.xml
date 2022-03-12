@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Android-MVP-Sample1</string>
+
+    <string name="save_action">Save</string>
+    <string name="new_company_action">New company</string>
+
+    <string name="activity_employees_title">Employees</string>
+    <string name="new_employee_action">New employee</string>
+
+    <string name="activity_new_company_title">New company</string>
+    <string name="company_id_label">ID</string>
+    <string name="company_name_label">Name</string>
+
+    <string name="activity_new_employee_title">New employee</string>
+    <string name="employee_id_label">ID</string>
+    <string name="employee_name_label">Name</string>
+    <string name="employee_email_label">Email</string>
+    <string name="employee_phone_label">Phone</string>
+
+</resources>
